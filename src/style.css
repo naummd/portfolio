@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'UMReg';
+    src: 
+         url('/src/assets/fonts/UM-Reg.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'NunitoSans';
+    src: 
+         url('/src/assets/fonts/NunitoSans.ttf') format('truetype');
+  }
